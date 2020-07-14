@@ -1,5 +1,14 @@
-### Hi there 👋
+<h1 align="center"> vandelvan </h1>
 
+#### GNU/Linux user 🐧 
+### Main Languages
+#### Python 🐍
+#### JS 🤖
+#### Java ☕
+#### PHP 🐘
+###### MySQL 🐬
+## I’m currently working on
+### Spotify's #Ramp_Up! Summer 2020 📻
 <!--
 **vandelvan/vandelvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
