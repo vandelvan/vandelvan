@@ -1,25 +1,33 @@
 <h1 align="center"> vandelvan </h1>
 
-#### GNU/Linux user 🐧 
-### Main Languages
+## Full-Stack Developer obsessed with automation 🤖
+###### Currently eating ramen 🍜
+
+### Languages:
+
+#### Javascript
 #### Python 🐍
-#### JS 🤖
-#### Java ☕
 #### PHP 🐘
-###### MySQL 🐬
-## I’m currently working on
-### Spotify's #Ramp_Up! Summer 2020 📻
-<!--
-**vandelvan/vandelvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Java ☕
+#### Node.js
+#### MySQL 🐬
+#### MongoDB 🍃
+#### Linux CLI/Bash 🐧
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="vandelvan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vandelvan&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+
+### Other sites:
+[<img align="left" alt="vandelvan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vandelvan | Spotify" width="22px" src="https://image.flaticon.com/icons/png/512/49/49097.png" />][spotify]
+
+<br />
+
+
+[linkedin]: https://www.linkedin.com/in/jose-ivan-orozco-torrez-899672199/
+[spotify]: https://open.spotify.com/artist/1vgJilzDeVio0hWQnGFPXJ
