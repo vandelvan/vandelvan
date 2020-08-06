@@ -10,6 +10,8 @@
 #### PHP 🐘
 #### Java ☕
 #### Node.js
+#### Angular 🛡️ (learning)
+#### Flutter 📱 (learning)
 #### MySQL 🐬
 #### MongoDB 🍃
 #### Linux CLI/Bash 🐧
