@@ -10,6 +10,7 @@
 #### PHP 🐘
 #### Java ☕
 #### Node.js
+#### Reactjs ⚛️ (learning)
 #### Angular 🛡️ (learning)
 #### Flutter 📱 (learning)
 #### MySQL 🐬
