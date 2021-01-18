@@ -3,17 +3,19 @@
 ## Full-Stack Developer obsessed with automation 🤖
 ###### Currently eating ramen 🍜
 
-### Languages:
+### Languages/Frameworks:
 
 #### Javascript
 #### Python 🐍
 #### PHP 🐘
 #### Java ☕
 #### Node.js
-#### Reactjs ⚛️ (learning)
-#### Angular 🛡️ (learning)
-#### Flutter 📱 (learning)
+#### C
+#### C++
+#### Django
+#### Flutter 🐦
 #### MySQL 🐬
+#### SQLite 🪶
 #### MongoDB 🍃
 #### Linux CLI/Bash 🐧
 
