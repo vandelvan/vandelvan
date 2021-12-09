@@ -1,38 +1,27 @@
 <h1 align="center"> vandelvan </h1>
 
-## Full-Stack Developer obsessed with automation 🤖
+## Full-Stack Developer `obsessed` with automation 🤖
 ###### Currently eating ramen 🍜
 
-### Languages/Frameworks:
-
-#### Javascript
-#### Python 🐍
-#### PHP 🐘
-#### Java ☕
-#### Node.js
-#### C
-#### C++
-#### Django
-#### Flutter 🐦
-#### MySQL 🐬
-#### SQLite 🪶
-#### MongoDB 🍃
-#### Linux CLI/Bash 🐧
-
-<br />
-<br />
-
-<img align="left" alt="vandelvan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vandelvan&show_icons=true&hide_border=true" />
-
-<br />
-<br />
-
-### Other sites:
-[<img align="left" alt="vandelvan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vandelvan | Spotify" width="22px" src="https://image.flaticon.com/icons/png/512/49/49097.png" />][spotify]
-
-<br />
-
+### Tools & Technologies:
+- Python 🐍
+- Flutter 🐦
+- Javascript
+- PHP 🐘
+- Java ☕
+- Node.js
+- C
+- C++
+- C#
+- .Net
+- Qt
+- Django
+- MySQL 🐬
+- PostgreSQL 🐘
+- SQLite 🪶
+- MongoDB 🍃
+- Linux CLI/Bash 🐧
+> ###### Also some no-code tools like Wordpress for shorter projects
+[<img src="https://img.icons8.com/clouds/50/000000/linkedin.png"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jose-ivan-orozco-torrez-899672199/
-[spotify]: https://open.spotify.com/artist/1vgJilzDeVio0hWQnGFPXJ
