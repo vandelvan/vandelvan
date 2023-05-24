@@ -1,6 +1,6 @@
 <h1 align="center"> vandelvan </h1>
 
-## Full-Stack Developer `obsessed` with automation 🤖
+## Software Engineer `obsessed` with automation 🤖
 ###### Currently eating ramen 🍜
 
 ### Tools & Technologies:
