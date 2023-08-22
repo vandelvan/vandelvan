@@ -1,6 +1,7 @@
 <h1 align="center"> vandelvan </h1>
 
-## Software Engineer `obsessed` with automation 🤖
+## Software Engineer
+#### Back End Developer @ IBM 👁️🐝Ⓜ️
 ###### Currently eating ramen 🍜
 
 ### Tools & Technologies:
