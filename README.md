@@ -2,17 +2,21 @@
 
 ## Software Engineer
 #### Back End Developer @ IBM 👁️🐝Ⓜ️
+Generative AI needs to be transparent, ethically sourced, non intrusive, and only used ethically, know its limitations. 📎
+Keep Art human.
 ###### Currently eating ramen 🍜
 
 ### Tools & Technologies:
 - Python 🐍
+- Linux CLI/Bash 🐧
 - Flutter 🐦
-- Javascript
-- PHP 🐘
-- Java ☕
-- Node.js
-- C
 - C++
+- C
+- Javascript
+- Node.js
+- Next.js
+- PHP 🐘
+- Java ☕️
 - C#
 - .Net
 - Qt
@@ -21,7 +25,6 @@
 - PostgreSQL 🐘
 - SQLite 🪶
 - MongoDB 🍃
-- Linux CLI/Bash 🐧
 > ###### Also some no-code tools like Wordpress for shorter projects
 [<img src="https://img.icons8.com/clouds/50/000000/linkedin.png"/>][linkedin]
 
