@@ -4,6 +4,9 @@
 #### Back End Developer @ IBM 👁️🐝Ⓜ️
 Generative AI needs to be transparent, ethically sourced, non intrusive, and only used ethically, know its limitations. 📎
 Keep Art human.
+
+Software Engineer with 5+ years of experience in software development, Linux & scripting enthusiast.
+
 ###### Currently eating ramen 🍜
 
 ### Tools & Technologies:
@@ -28,4 +31,4 @@ Keep Art human.
 > ###### Also some no-code tools like Wordpress for shorter projects
 [<img src="https://img.icons8.com/clouds/50/000000/linkedin.png"/>][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jose-ivan-orozco-torrez-899672199/
+[linkedin]: https://www.linkedin.com/in/vandelvan/
